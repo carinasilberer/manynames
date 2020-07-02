@@ -8,14 +8,11 @@ Repository for the ManyNames dataset
 
 - [ ] add file with (VG) urls of image files; add VG images
 - [ ] add and describe script for WN relations@LREC paper
-- [x] double-check bbox ccordinates
 - [ ] add preproc scripts + raw data from computer@UPF
-- [x] change incorrect column to singletons, also for MNv2.0
-- [ ] column VG_cat only in MNv1.0
-- [x] remove prefix from MN columns
+- [ ] column VG_cat only in MNv
 
-## ManyNames dataset Version 1.0
-###### ManyNames_v1.0 completed as of 8 January 2020
+## ManyNames dataset
+###### ManyName completed as of 8 January 2020
 
 Below we describe the data that is availabe for download in this repository.
 
@@ -33,7 +30,7 @@ Below we describe the data that is availabe for download in this repository.
 
 For each domain, there exists at least one WordNet category out of *article of clothing*, *instrumentality, instrumentation*, *person*, *tableware*, *ware*, *food, nutrient*, *structure, construction*, *animal*, *tool*, *food, solid food*, *plant, flora, plant life*, *vehicle*.
    
-#### Data file: manynames-v1.0.tsv
+#### Data file: manynames.tsv
 
 | Column | Type | Description | 
 | -------- | :-------: | -------- |
